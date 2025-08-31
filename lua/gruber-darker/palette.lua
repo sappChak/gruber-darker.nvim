@@ -10,7 +10,7 @@ M = {
 	white = Color.new(0xffffff),
 	black = Color.new(0x000000),
 	["bg-1"] = Color.new(0x101010),
-	bg = Color.new(0x181818),
+	bg = Color.none(),
 	["bg+1"] = Color.new(0x282828),
 	["bg+2"] = Color.new(0x453d41),
 	["bg+3"] = Color.new(0x484848),
@@ -23,7 +23,7 @@ M = {
 	brown = Color.new(0xcc8c3c),
 	quartz = Color.new(0x95a99f),
 	["niagara-2"] = Color.new(0x303540),
-	["niagara-1"] = Color.new(0x565f73),
+	["niagara-1"] = Color.new(0xffffff),
 	niagara = Color.new(0x96a6c8),
 	wisteria = Color.new(0x9e95c7),
 }
